@@ -1,8 +1,12 @@
 # Student Guide
 
+
+
 ## AWS Educate Onboarding Guide
 
 ### Creating a Student Account
+1. Difference between AWS Starter account and AWS Educate Account
+2. 
 
 ### Enrolling a Classroom
 
@@ -34,6 +38,8 @@ Run a Serverless "Hello, World!"
 Learn the basics of running code on AWS Lambda without provisioning or managing servers. [https://aws.amazon.com/getting-started/tutorials/run-serverless-code/]
 
 ## FAQ
+
+AWS Educate FAQ: https://aws.amazon.com/education/awseducate/aws-educate-faqs/ 
 
 ### How do I check my remaining balance?
 Go to the student portal in AWS Educate account from [TBD]
