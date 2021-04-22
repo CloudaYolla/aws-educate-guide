@@ -13,3 +13,8 @@ Full list: https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf
 - Middle East Technical University Ankara Turkey
 - Ozyegin University Istanbul Turkey
 - Sabanci University Istanbul Turkey
+
+
+### AWS Ambassadors / Heroes
+- [TBD]
+- 
