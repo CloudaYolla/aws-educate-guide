@@ -29,7 +29,11 @@ Amazon’s global initiative to provide students and educators with the resource
 
 In addition to providing the technologies AWS provides, AWS also supports education by training and resources needed to upskill faculty and other staff members as learning moves to the cloud and to teach students critical cloud technology skills. 
  
-AWS Educate is a global program that gives students and educators access to cloud resources. AWS offer resources off and online in many countries and territories and multiple languages, including classroom facilitator guides for teachers and hands-on activities. 
+AWS Educate is a global program that gives students and educators access to cloud resources. 
+
+AWS Educate is used in more than 200 countries and territories. It connects 2,400 institutions, over 10,000 educators, and hundreds of thousands of students. 
+
+[https://aws.amazon.com/education/awseducate/]
 
 
 ## Getting Help and Support
