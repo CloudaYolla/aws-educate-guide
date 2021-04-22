@@ -2,6 +2,10 @@
 
 ## Onboarding Guide
 
+### Creating a Student Account
+
+### Enrolling a Classroom
+
 ### Best Practices for managing your AWS Educate Credit
 
 **Compute Instances**
