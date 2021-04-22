@@ -14,6 +14,11 @@ AWS EC2 virtual machines are charged at a flat rate, for each minute that they a
 
 Therefore, the most important thing you need to do to, to manage your AWS credit, is to carefully turn your VM on and off just when you need it.
 
+** Serverless Computing**
+
+Run a Serverless "Hello, World!"
+Learn the basics of running code on AWS Lambda without provisioning or managing servers. [https://aws.amazon.com/getting-started/tutorials/run-serverless-code/]
+
 ## FAQ
 
 ### How do I check my remaining balance?
