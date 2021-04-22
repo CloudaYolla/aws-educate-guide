@@ -17,6 +17,7 @@ Currently, this guide covers AWS Educate.
 - AWS Educate for Students
    - Onboarding Guide
    - FAQ
+- AWS Documentation: Find user guides, developer guides, API references, tutorials, and more here [https://docs.aws.amazon.com/]
 
 ## Getting Help and Support
 - Forums: For many problems, it’s worth searching or asking for help in the discussion forums to see if it’s a known issue.
