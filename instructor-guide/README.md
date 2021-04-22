@@ -3,10 +3,13 @@
 ## Applying for AWS Educate
 
 1. What is the difference between Individual membership and an Institution membership? 
-2. Why apply for AWS Educate Institution Membership?
+2. How do I signup
+3. Why apply for AWS Educate Institution Membership?
    * Educators and students wouldn't be required to setup their own accounts
    * Institutions can terminate running services
    * More credits for instructors and students. 
+4. How do I know if my institution is a member?
+5. How much AWS Promotional Credit comes with my membership?
 
 ## Onboarding Guide
 
