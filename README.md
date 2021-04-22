@@ -19,6 +19,19 @@ Currently, this guide covers AWS Educate.
    - FAQ
 - AWS Documentation: Find user guides, developer guides, API references, tutorials, and more here [https://docs.aws.amazon.com/]
 
+## AWS for Academy
+Whether you’re a faculty member, student, developer, thought leader or a policy maker, Amazon offers a number of ways for you to engage with the company’s scientific community. 
+
+https://www.amazon.science/academic-engagements 
+
+## AWS Educate
+Amazon’s global initiative to provide students and educators with the resources needed to accelerate cloud-related learning.
+
+In addition to providing the technologies AWS provides, AWS also supports education by training and resources needed to upskill faculty and other staff members as learning moves to the cloud and to teach students critical cloud technology skills. 
+ 
+AWS Educate is a global program that gives students and educators access to cloud resources. AWS offer resources off and online in many countries and territories and multiple languages, including classroom facilitator guides for teachers and hands-on activities. 
+
+
 ## Getting Help and Support
 - Forums: For many problems, it’s worth searching or asking for help in the discussion forums to see if it’s a known issue.
    - AWS Forums
