@@ -16,3 +16,5 @@
 4. LMS (Learning Management System Integration)
 
 ## FAQ
+
+AWS Educate FAQ: https://aws.amazon.com/education/awseducate/aws-educate-faqs/
