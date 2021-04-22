@@ -2,8 +2,6 @@
 
 Full list: https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf
 
-## Country A
-
 ## Turkey
 
 - Bilkent University Ankara Turkey 
