@@ -2,6 +2,14 @@
 
 ## Onboarding Guide
 
+### Best Practices for managing your AWS Educate Credit
+
+**Compute Instances**
+
+AWS EC2 virtual machines are charged at a flat rate, for each minute that they are turned on. This is irrespective of: whether you are ssh'd to the machine at that time, whether you are running any processes on the machine at that time, the computational intensity of the the processes you're running, whether you're using GPUs.
+
+Therefore, the most important thing you need to do to, to manage your Azure credit, is to carefully turn your VM on and off just when you need it.
+
 ## FAQ
 
 ### How do I check my remaining balance?
