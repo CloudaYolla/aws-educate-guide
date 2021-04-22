@@ -15,6 +15,10 @@ Full list: https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf
 - Sabanci University Istanbul Turkey
 
 
-### AWS Ambassadors / Heroes
+# AWS Ambassadors / Heroes
+
+Global Student Ambassador Program: https://aws.amazon.com/education/awseducate/student-ambassador-program/ 
+
+## Turkey
 - [TBD]
 - 
