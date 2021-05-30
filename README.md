@@ -1,5 +1,8 @@
 # aws-educate-guide
 
+![Logo](img/educate-logo-black.jpg "Logo") 
+
+
 ## Please help!
 This is an early in-progress draft! It’s our first attempt at assembling this information, so is far from comprehensive still, and likely to have omissions or errors.
 
