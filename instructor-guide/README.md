@@ -21,3 +21,15 @@
 ## FAQ
 
 AWS Educate FAQ: https://aws.amazon.com/education/awseducate/aws-educate-faqs/
+
+* Comparison of Institution accounts vs. individual accounts vs. starter accounts 
+* Classroom setup (prebuilt vs custom)
+* Upgrading from AWS Starter accounts to AWS Educate accounts
+* Credit terms
+* Terms/Pitfalls
+* Best practices
+* LMS integration
+* Slow response time to classroom requests
+* Credit increase request process
+
+
