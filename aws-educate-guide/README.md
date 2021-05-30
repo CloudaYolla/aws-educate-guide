@@ -32,7 +32,7 @@ Account Types
 
 ![img](../img/classroom-template.png "img") 
 
-![img](../img/prof-resource-paths.png "img") 
+![img](../img/prof-resources-paths.png "img") 
 
 
 
