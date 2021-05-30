@@ -35,6 +35,26 @@ AWS Educate is used in more than 200 countries and territories. It connects 2,40
 
 [https://aws.amazon.com/education/awseducate/]
 
+_Educator Onboarding_
+It is recommended to apply as an institution rather than individually. Institution accounts have more benefits, such as higher credits for instructors and students. Please reach out to your institution to open an AWS account with an institution email address and contact name. Then, use this AWS account id to apply for institution membership. You don't need the AWS account, nor there will be any charges incurred to this AWS account from AWS Educate usage.
+
+_Student Onboarding_
+You could invite students to a classroom, by providing a list of student emails.   
+ 
+_Guideline Docs_
+Instructors get access to the AWS Educate – Educator QuickStart Guide, which contains subscription info, Credit management best practices, configuration guide and FAQ. 
+ 
+_Cost Management_
+The students, or the institution accounts won't be billed from AWS Educate usage. The main challenge with the PAYG (pay as you go) model of cloud is the difficulty of estimating costs. It depends on many parameters such as the service mix, duration and scale. It is recommended to assign a pre-work to the students, in which they study the pricing of the service(s) to be used, and come up with a cost estimation model. **Calculating costs is especially important for the audience given their limited budgets.** Please note that, AWS Educate is not a tool for funding a research project.  
+ 
+_Service Coverage_
+**The number of AWS services is overwhelming, and what is included within AWS Educate is only a subset of the overall services.** They are listed below: 
+
+| | | 
+ 
+_AWS Educate Promotional Credits_
+\[TBD]
+
 
 ## Getting Help and Support
 - Forums: For many problems, it’s worth searching or asking for help in the discussion forums to see if it’s a known issue.
