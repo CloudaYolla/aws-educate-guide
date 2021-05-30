@@ -22,7 +22,8 @@
 
 AWS Educate FAQ: https://aws.amazon.com/education/awseducate/aws-educate-faqs/
 
-* Comparison of Institution accounts vs. individual accounts vs. starter accounts 
+* Comparison of Institution accounts vs. individual accounts vs. starter accounts: Starter accounts are terminated  every year and cannot be topped. Institution membership accounts can be reused in consequtive semesters.
+ 
 * Classroom setup (prebuilt vs custom)
 * Upgrading from AWS Starter accounts to AWS Educate accounts
 * Credit terms
