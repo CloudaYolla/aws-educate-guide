@@ -1,5 +1,6 @@
 # AWS Educate Platform Highlights
 
+Below is a preview of the AWS Educate resources. You can access the guides and resources from your AWS Educate account.
 
 
 # Managing AWS Educate Accounts
