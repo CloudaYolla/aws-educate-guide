@@ -1,3 +1,6 @@
+# AWS Educate Platform Highlights
+
+
 
 # Managing AWS Educate Accounts
 
@@ -13,9 +16,28 @@ Students can continue to use their account after graduation with no action requi
   * Institutions spread the AWS credits across all of the linked accounts, thereby mitigating overages by individual educators or students.
   * Institutions could terminate running services (as long as root access to linked accounts is retained).
 
+Account Types
 
-# Account Types
+* AWS Educate Starter Account: The AWS Educate Starter Account offers free access to a specified amount of AWS cloud resources without requiring a credit card for payment. Usage is capped in order to protect students and educators from any fees. 
 
-## AWS Educate Starter Account
-The AWS Educate Starter Account offers free access to a specified amount of AWS cloud resources without requiring a credit card for payment. Usage is capped in order to protect students and educators from any fees. 
 
+## Signup
+![img](../img/signup1.png "img") 
+
+![img](../img/signup2.png "img") 
+
+
+# AWS Educate Content Repository
+![img](../img/content-repo.png "img") 
+
+![img](../img/classroom-template.png "img") 
+
+![img](../img/prof-resource-paths.png "img") 
+
+
+
+
+# Educate Guide
+![img](../img/edu-guide1.png "img") 
+
+![img](../img/edu-guide2.png "img") 
