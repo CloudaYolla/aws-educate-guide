@@ -1,42 +1,24 @@
-# aws-educate-guide
+# AWS Educate, Turkey Community Guide
 
 ![Logo](img/educate-logo-black.jpg "Logo") 
 
+Whether you’re a faculty member, student, developer, thought leader or a policy maker, Amazon offers a number of ways for you to engage with the company’s scientific community. See: https://www.amazon.science/academic-engagements  
 
-## Please help!
-This is an early in-progress draft! It’s our first attempt at assembling this information, so is far from comprehensive still, and likely to have omissions or errors.
-
-Credits [TBD] Contributing Guidelines [TBD]
-
-## Scope
 Currently, this guide covers AWS Educate. 
+AWS Educate is Amazon’s global initiative to provide students and educators with the resources needed to accelerate cloud-related learning. In addition to providing the technologies AWS provides, AWS also supports education by training and resources needed to upskill faculty and other staff members as learning moves to the cloud and to teach students critical cloud technology skills. 
+
+* AWS Educate is a global program that gives students and educators access to cloud resources. 
+* AWS Educate is used in more than 200 countries and territories. It connects 2,400 institutions, over 10,000 educators, and hundreds of thousands of students. 
+
+More info: [https://aws.amazon.com/education/awseducate/]
 
 ## Table of Contents
-- Scope
-- AWS Educate Documentation
-- AWS Educate for Academicians/Instructors
-   - Onboarding Guide
-   - FAQ
-- AWS Educate for Students
-   - Onboarding Guide
-   - FAQ
-- AWS Documentation: Find user guides, developer guides, API references, tutorials, and more here [https://docs.aws.amazon.com/]
+- AWS Educate Highlights
+- Onboarding Guide & FAQ for Instructors and Students
+- Links to AWS resources: User guides, developer guides, API references, tutorials, and more here [https://docs.aws.amazon.com/]
 
-## AWS for Academy
-Whether you’re a faculty member, student, developer, thought leader or a policy maker, Amazon offers a number of ways for you to engage with the company’s scientific community. 
-
-https://www.amazon.science/academic-engagements 
 
 ## AWS Educate
-Amazon’s global initiative to provide students and educators with the resources needed to accelerate cloud-related learning.
-
-In addition to providing the technologies AWS provides, AWS also supports education by training and resources needed to upskill faculty and other staff members as learning moves to the cloud and to teach students critical cloud technology skills. 
- 
-AWS Educate is a global program that gives students and educators access to cloud resources. 
-
-AWS Educate is used in more than 200 countries and territories. It connects 2,400 institutions, over 10,000 educators, and hundreds of thousands of students. 
-
-[https://aws.amazon.com/education/awseducate/]
 
 _Educator Onboarding_
 It is recommended to apply as an institution rather than individually. Institution accounts have more benefits, such as higher credits for instructors and students. Please reach out to your institution to open an AWS account with an institution email address and contact name. Then, use this AWS account id to apply for institution membership. You don't need the AWS account, nor there will be any charges incurred to this AWS account from AWS Educate usage.
@@ -66,12 +48,9 @@ _AWS Educate Promotional Credits_
 - AWS Account Manager & Solutions: 
    - Reach out to AWS organization in your country. The activities delivered by the AWS in your country (Webinars, Immersion Days) are a great resource. Build a good relationship with them and make use of them, for questions, problems, and guidance.
 - AWS Community (by Country)
-  - Country A
-  - Country B
   - Turkey
    - AWS Serverless Community
    - AWS YouTube Channel
-   - 
 - Contact: The main web contact point for AWS is here [TBD] . Many technical requests can be made via these channels.
 
 
@@ -88,3 +67,10 @@ The authors and contributors to this content cannot guarantee the validity of th
 Creative Commons License
 
 This work is licensed under a (Creative Commons Attribution-ShareAlike 4.0 International License)[https://creativecommons.org/licenses/by-sa/4.0/].
+
+## Contributing
+This is an early in-progress draft! It’s our first attempt at assembling this information, so is far from comprehensive still, and likely to have omissions or errors.
+
+Credits [TBD] Contributing Guidelines [TBD]
+
+
