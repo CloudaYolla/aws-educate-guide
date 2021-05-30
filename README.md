@@ -2,7 +2,7 @@
 
 ![Logo](img/educate-logo-black.jpg "Logo") 
 
-Whether you’re a faculty member, student, developer, thought leader or a policy maker, Amazon offers a number of ways for you to engage with the company’s scientific community. See: https://www.amazon.science/academic-engagements  
+Whether you’re a faculty member, student, developer, thought leader or a policy maker, Amazon offers a number of ways for you to engage with the company’s scientific community. See [Amazon Academy Engagements](https://www.amazon.science/academic-engagements)  
 
 Currently, this guide covers AWS Educate. 
 AWS Educate is Amazon’s global initiative to provide students and educators with the resources needed to accelerate cloud-related learning. In addition to providing the technologies AWS provides, AWS also supports education by training and resources needed to upskill faculty and other staff members as learning moves to the cloud and to teach students critical cloud technology skills. 
@@ -10,11 +10,11 @@ AWS Educate is Amazon’s global initiative to provide students and educators wi
 * AWS Educate is a global program that gives students and educators access to cloud resources. 
 * AWS Educate is used in more than 200 countries and territories. It connects 2,400 institutions, over 10,000 educators, and hundreds of thousands of students. 
 
-More info: [https://aws.amazon.com/education/awseducate/]
+See: [AWS Educate](https://aws.amazon.com/education/awseducate/)
 
 ## Table of Contents
-- AWS Educate Highlights
-- Onboarding Guide & FAQ for Instructors and Students
+- [AWS Educate Highlights](./aws-educate-guide)
+- Onboarding Guide & FAQ for [Instructors](./instructor-guide) and [Students](./student-guide)
 - Links to AWS resources: User guides, developer guides, API references, tutorials, and more here [https://docs.aws.amazon.com/]
 
 
